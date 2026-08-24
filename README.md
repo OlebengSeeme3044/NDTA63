@@ -48,15 +48,14 @@ Written in **Python & SQL**
 
 GitHub: @"Group members"
 
-
-OLEBENG SEEME
-OLERATO ITUMELENG
-OLERATO MATSOBE
-OMPHILE FILANDER
-Naledi Thato Prudence Makobalo
-Lesedi Ledwaba
-Nazi Tholumuzi Ndlovu
-Ndzalo Shibambu
+-OLEBENG SEEME
+-OLERATO ITUMELENG
+-OLERATO MATSOBE
+-OMPHILE FILANDER
+-NALEDI PRUDENCE MAKOBALO
+-LESEDI LEDWABA
+-NAZI THOLUMUZI NDLOVU
+-NDZALO SHIBAMBU
 
 LinkedIn: [Melvin Kisten](https://www.linkedin.com/in/iammelvink 'Melvin Kisten\'s LinkedIn page')
 
